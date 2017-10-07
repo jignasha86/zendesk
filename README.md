@@ -28,7 +28,7 @@ It requires python interpretr
 ### Note-
 It is taking more than 3 dimention, but still only 3 consecutive marks makes one win
 
-which ideally makes difficult to draw this game
+which ideally makes difficult to draw this game if N > 3
 
 
 
