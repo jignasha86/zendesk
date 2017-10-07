@@ -25,6 +25,11 @@ It requires python interpretr
 #### Any number within NXN square till game not complete by player1
 #### Any number within NXN square till game not complete by player2
 
+### Note-
+It is taking more than 3 dimention, but still only 3 consecutive marks makes one win
+
+which ideally makes difficult to draw this game
+
 
 
 
