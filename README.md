@@ -14,7 +14,7 @@
 
 # How to run program
 
-It requires python interpret
+It requires python interpretr
 ### python tic-tac-toe.py
 
 # User Inputs
